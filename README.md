@@ -49,7 +49,4 @@ I am also expert to work with following supporting technical skills also:
 
 ⚒ You can hire me for design and development of your Online store and its ongoing maintenance. I take pride in my work and always respect the time, efforts that I put in my work! ⚒
 
-Thank you for your time and consideration. I look forward to working with you soon.<!---
-Cyrus-Webtech/Cyrus-Webtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thank you for your time and consideration. I look forward to working with you soon.
